@@ -1,0 +1,3 @@
+https://asd-nautilus-jenkins.isus.emc.com/jenkins/job/nautilus-platform-master/lastBuild/Docs/internal/releases/index.html
+https://asd-nautilus-jenkins.isus.emc.com/jenkins/job/nautilus-platform-master/lastSuccessfulBuild/
+https://asd-nautilus-jenkins.isus.emc.com/jenkins/job/nautilus-dcos/job/master/lastSuccessfulBuild/
